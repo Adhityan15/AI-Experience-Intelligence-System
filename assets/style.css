@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+body {
+    background-color: #0e1117;
+    color: #ffffff;
+}
+
+h1, h2, h3 {
+    color: #7dd3fc;
+}
+
+.stMetric {
+    background: linear-gradient(135deg, #6366f1, #22d3ee);
+    padding: 15px;
+    border-radius: 15px;
+}
