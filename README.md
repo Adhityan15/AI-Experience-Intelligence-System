@@ -110,10 +110,17 @@ AI-Experience-Intelligence-System/
 
 ---
 
-## DahBoard Insights
+## DashBoard Insights
+TAXI-BI
+<img width="1276" height="715" alt="Screenshot 2026-01-18 143505" src="https://github.com/user-attachments/assets/a5109afc-79da-4a0b-bcfd-1a8d981df68c" />
 
-<img width="1158" height="646" alt="Screenshot 2026-01-18 151904" src="https://github.com/user-attachments/assets/44a75074-f9cd-4018-919d-a63ccacaa294" />
+WAZE-BI
+<img width="1181" height="653" alt="Screenshot 2026-01-18 111300" src="https://github.com/user-attachments/assets/93dd2fad-6120-4ac9-8ea2-253c0bb16ec6" />
 
+TIKTOK-BI
+<img width="1158" height="646" alt="Screenshot 2026-01-18 151904" src="https://github.com/user-attachments/assets/73d475cb-e049-42df-a8f2-31300753110f" />
+
+---
 
 ## 👨‍💻 Author
 
