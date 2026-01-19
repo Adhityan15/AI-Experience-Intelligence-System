@@ -110,6 +110,11 @@ AI-Experience-Intelligence-System/
 
 ---
 
+## DahBoard Insights
+
+<img width="1158" height="646" alt="Screenshot 2026-01-18 151904" src="https://github.com/user-attachments/assets/44a75074-f9cd-4018-919d-a63ccacaa294" />
+
+
 ## 👨‍💻 Author
 
 **Adhityan R**
